@@ -4,6 +4,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 // Multithreaded code for Singleton (Double Locking) (Lazy Initialization)
 public class DatabaseConnection {
+    
     private static DatabaseConnection instance;
 
     // Reentrant lock for explicit locking
