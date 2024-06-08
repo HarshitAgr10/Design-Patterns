@@ -1,4 +1,4 @@
-package Builder;
+package builder;
 
 // Builder class is just a helper class which is created as a creator of student class to help
 // users create an object

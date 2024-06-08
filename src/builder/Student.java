@@ -1,6 +1,4 @@
-package Builder;
-
-import java.sql.SQLException;
+package builder;
 
 public class Student {
     // Private fields for the Student class
